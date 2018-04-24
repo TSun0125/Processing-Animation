@@ -78,8 +78,6 @@ void draw() {
   ellipse(690, 323, 30, 20);
   
   
-  
-  
   // loop through clouds
   for (int i = 0; i < clouds.length; i++) {
     // move each cloud
